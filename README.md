@@ -1,4 +1,8 @@
-### Hi there 👋
+### Greetings, welcome to my github page!
+
+<p align="center">
+  <img src= "https://giphy.com/gifs/nba-XEgjxxhodHa2DpxOz9">
+</p>
 
 <!--
 **achen004/achen004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
