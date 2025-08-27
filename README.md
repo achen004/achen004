@@ -3,7 +3,7 @@
 
 ![giphy](https://github.com/achen004/achen004/assets/52572060/d46c9be0-1573-49d7-95bd-f3fc45ef7708)
 
-Since my undergraduate education, I have had an interest in applying statistics in a business setting. With my continued passion for knowledge, I decided to further pursue mastery in data science, ML, and AI. My work experience in both industry and academia shows that I am well-equipped with analytical tools, along with a versatile background. I also demonstrate a strong time management ability due to balancing both work and school. 
+Since my undergraduate education, I have had an interest in applying statistics in a business setting. With my continued passion for knowledge, I decided to further pursue mastery in data science, ML, and AI. My work experience in both industry and academia shows that I am well-equipped with analytical tools, along with a versatile background. 
 
 In my free time I enjoy playing basketball, jogging, and watching fútbol highlights.
 
